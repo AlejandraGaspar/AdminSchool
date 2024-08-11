@@ -14,3 +14,12 @@ Registro y actualización de datos de docentes.
 Asignación de cursos y grupos.
 Consulta de horario y carga académica.
 Liberación de calificaciones.
+
+- Capturas de pantalla
+
+![Sección Login](image/1.png)
+![Sección Registrar](image/2.png)
+![Sección Alumno](image/3.png)
+![Sección Alumno](image/4.png)
+![Sección Seccion](image/5.png)
+![Sección Seccion](image/6.png)
