@@ -17,9 +17,9 @@ Liberación de calificaciones.
 
 - Capturas de pantalla
 
-![Sección Login](image/1.png)
-![Sección Registrar](image/2.png)
-![Sección Alumno](image/3.png)
-![Sección Alumno](image/4.png)
-![Sección Seccion](image/5.png)
-![Sección Seccion](image/6.png)
+![Sección Login](AdminApp/AdminApp/Image/1.png)
+![Sección Registrar](AdminApp/AdminApp/Image/2.png)
+![Sección Alumno](AdminApp/AdminApp/Image/3.png)
+![Sección Alumno](AdminApp/AdminApp/Image/4.png)
+![Sección Seccion](AdminApp/AdminApp/Image/5.png)
+![Sección Seccion](AdminApp/AdminApp/Image/6.png)
